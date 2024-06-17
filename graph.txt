@@ -1,0 +1,11 @@
+7 1 ABCDEFG
+A B 6
+A C 7
+B D 9
+B E 7
+C D 8
+C G 3
+D E 5
+D F 4
+D G 7
+E F 9
